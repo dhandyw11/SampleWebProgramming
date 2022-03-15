@@ -1,3 +1,2 @@
 # SampleWeb_CollegeSchedule
-Trying to make a simple college schedule that integrated with
-Smartlock for class system
+A school task about class information that integrated with Smartlock for class system
